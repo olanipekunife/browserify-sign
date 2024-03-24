@@ -37,7 +37,7 @@
 		"hash-base": "~3.0",
 		"inherits": "^2.0.4",
 		"parse-asn1": "^5.1.7",
-		"readable-stream": "^2.3.8",
+		"readable-stream": "^3.6.2",
 		"safe-buffer": "^5.2.1"
 	},
 	"devDependencies": {
